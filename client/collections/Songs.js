@@ -8,7 +8,8 @@ var Songs = Backbone.Collection.extend({
   },
 
   initialize: function() {
-    this.fetch();    
+    this.fetch();
+      
   }
  
 
